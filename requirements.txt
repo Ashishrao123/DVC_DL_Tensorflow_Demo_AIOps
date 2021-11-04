@@ -1,0 +1,10 @@
+boto3    			
+botocore
+dvc
+matplotlib
+pandas
+PyYAML
+tensorflow
+tqdm
+joblib
+scipy
